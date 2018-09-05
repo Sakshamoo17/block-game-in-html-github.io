@@ -1,0 +1,10 @@
+Frames
+To make the game ready for action, we will update the display 50 times per second, which is much like frames in a movie.
+
+First, create a new function called updateGameArea().
+
+In the myGameArea object, add an interval which will run the updateGameArea() function every 20th millisecond (50 times per second). Also add a function called clear(), that clears the entire canvas.
+
+In the component constructor, add a function called update(), to handle the drawing of the component.
+
+The updateGameArea() function calls the clear() and the update() method.
