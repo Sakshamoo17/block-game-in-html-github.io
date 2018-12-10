@@ -1,4 +1,4 @@
-# block-game-in-html-github.io
+# blockgame-in-html-github.io
 Basic block game in html
 # Developers
 -Saksham Sharma<br>
