@@ -1,7 +1,7 @@
 # Block Game in HTML
 Basic block game in html
 # Screenshot
-<img scr="BLOCKGAME.png">
+<img src="BLOCKGAME.png">
 
 # Developers
 -Saksham Sharma<br>
