@@ -2,6 +2,7 @@
 Basic block game in html
 # Screenshot
 <img scr="BLOCKGAME.png">
+
 # Developers
 -Saksham Sharma<br>
 <a href="https://github.com/Sakshamoo17">Github</a>
