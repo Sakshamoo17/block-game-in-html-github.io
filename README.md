@@ -1,6 +1,6 @@
 # Block Game in HTML
 Basic block game in html
-******
+****
 # Screenshot
 <img src="BLOCKGAME.png">
 
