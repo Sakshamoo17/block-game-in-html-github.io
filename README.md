@@ -1,8 +1,12 @@
 # Block Game in HTML
 Basic block game in html
-****
+
 # Screenshot
 <img src="BLOCKGAME.png">
+
+# License
+
+Copyright 2018 Saksham Sharma
 
 # Developers
 -Saksham Sharma<br>
